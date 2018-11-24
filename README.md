@@ -1,5 +1,5 @@
 # Data-Science
 
-Project for Datacamp 
+Starting in data science 
 
 Data Science with Python3
